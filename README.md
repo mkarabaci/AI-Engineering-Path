@@ -1,2 +1,1 @@
-# Hello-World
-Journal of my process
+# Journal of my process
